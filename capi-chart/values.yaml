@@ -3,5 +3,5 @@
 # Declare variables to be passed into your templates.
 
 nodes:
-  workers: 1
+  workers: 2
   controlPlanes: 1
